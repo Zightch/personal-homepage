@@ -8,13 +8,14 @@ document.addEventListener("DOMContentLoaded", function() {
 
 window.onload = function() {
     var images = [
-        'img/background-1.jpg',
-        'img/background-2.jpg',
-        'img/background-3.jpg',
-        'img/background-4.jpg',
-        'img/background-5.jpg',
-        'img/background-6.jpg',
-        'img/background-7.jpg'
+        'img/八云紫1.jpg',
+        'img/八云紫八云蓝1.jpg',
+        'img/八云紫幽幽子1.jpg',
+        'img/十六夜1.png',
+        'img/天子皇带鱼1.jpg',
+        'img/灵梦1.jpg',
+        'img/灵梦2.jpg',
+        'img/芙兰朵露1.jpg',
     ];
     var currentIndex = 0;
 

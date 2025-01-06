@@ -77,13 +77,13 @@ body {
     border-radius: 100%;
 }
 
-.footer {
+.main-footer {
     display: flex;
     flex-direction: row;
     direction: rtl;
 }
 
-.footer-a {
+.main-footer-a {
     width: 32px;
     height: 32px;
 }
@@ -97,4 +97,10 @@ footer {
     display: flex;
     flex-direction: row;
     align-items: center;
+    color: #FFFFFF;
+}
+
+.footer-a {
+    color: #FFFFFF;
+    text-decoration: none;
 }
